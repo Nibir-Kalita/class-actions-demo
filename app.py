@@ -10,7 +10,7 @@ def get_students():
 
 
 def main():
-    print("Student Management System Final")
+    print("Student Management System Final2")
 
     students = get_students()
 
